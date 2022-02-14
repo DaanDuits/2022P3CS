@@ -1,0 +1,16 @@
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\obj\Debug\net5.0\TijdOpHetScherm.csproj.AssemblyReference.cache
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\obj\Debug\net5.0\TijdOpHetScherm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\obj\Debug\net5.0\TijdOpHetScherm.AssemblyInfoInputs.cache
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\obj\Debug\net5.0\TijdOpHetScherm.AssemblyInfo.cs
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\obj\Debug\net5.0\TijdOpHetScherm.csproj.CoreCompileInputs.cache
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\bin\Debug\net5.0\TijdOpHetScherm.exe
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\bin\Debug\net5.0\TijdOpHetScherm.deps.json
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\bin\Debug\net5.0\TijdOpHetScherm.runtimeconfig.json
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\bin\Debug\net5.0\TijdOpHetScherm.runtimeconfig.dev.json
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\bin\Debug\net5.0\TijdOpHetScherm.dll
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\bin\Debug\net5.0\ref\TijdOpHetScherm.dll
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\bin\Debug\net5.0\TijdOpHetScherm.pdb
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\obj\Debug\net5.0\TijdOpHetScherm.dll
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\obj\Debug\net5.0\ref\TijdOpHetScherm.dll
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\obj\Debug\net5.0\TijdOpHetScherm.pdb
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\TijdOpHetScherm\obj\Debug\net5.0\TijdOpHetScherm.genruntimeconfig.cache
