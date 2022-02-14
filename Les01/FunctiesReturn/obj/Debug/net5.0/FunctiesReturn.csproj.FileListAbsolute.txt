@@ -1,0 +1,16 @@
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\bin\Debug\net5.0\FunctiesReturn.exe
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\bin\Debug\net5.0\FunctiesReturn.deps.json
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\bin\Debug\net5.0\FunctiesReturn.runtimeconfig.json
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\bin\Debug\net5.0\FunctiesReturn.runtimeconfig.dev.json
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\bin\Debug\net5.0\FunctiesReturn.dll
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\bin\Debug\net5.0\ref\FunctiesReturn.dll
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\bin\Debug\net5.0\FunctiesReturn.pdb
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\obj\Debug\net5.0\FunctiesReturn.csproj.AssemblyReference.cache
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\obj\Debug\net5.0\FunctiesReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\obj\Debug\net5.0\FunctiesReturn.AssemblyInfoInputs.cache
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\obj\Debug\net5.0\FunctiesReturn.AssemblyInfo.cs
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\obj\Debug\net5.0\FunctiesReturn.csproj.CoreCompileInputs.cache
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\obj\Debug\net5.0\FunctiesReturn.dll
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\obj\Debug\net5.0\ref\FunctiesReturn.dll
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\obj\Debug\net5.0\FunctiesReturn.pdb
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\FunctiesReturn\obj\Debug\net5.0\FunctiesReturn.genruntimeconfig.cache
