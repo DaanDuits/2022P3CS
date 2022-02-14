@@ -1,0 +1,16 @@
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\bin\Debug\net5.0\Functies.exe
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\bin\Debug\net5.0\Functies.deps.json
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\bin\Debug\net5.0\Functies.runtimeconfig.json
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\bin\Debug\net5.0\Functies.runtimeconfig.dev.json
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\bin\Debug\net5.0\Functies.dll
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\bin\Debug\net5.0\ref\Functies.dll
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\bin\Debug\net5.0\Functies.pdb
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\obj\Debug\net5.0\Functies.csproj.AssemblyReference.cache
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\obj\Debug\net5.0\Functies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\obj\Debug\net5.0\Functies.AssemblyInfoInputs.cache
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\obj\Debug\net5.0\Functies.AssemblyInfo.cs
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\obj\Debug\net5.0\Functies.csproj.CoreCompileInputs.cache
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\obj\Debug\net5.0\Functies.dll
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\obj\Debug\net5.0\ref\Functies.dll
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\obj\Debug\net5.0\Functies.pdb
+C:\Users\daand\OneDrive\Bureaublad\Ma\bewijzenmap\periode1.3\C#\2022P3CS\Les01\Functies\obj\Debug\net5.0\Functies.genruntimeconfig.cache
