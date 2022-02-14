@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daand\\OneDrive\\Bureaublad\\Ma\\bewijzenmap\\periode1.3\\C#\\2022P3CS\\les01\\les01.csproj",
-      "projectName": "les01",
-      "projectPath": "C:\\Users\\daand\\OneDrive\\Bureaublad\\Ma\\bewijzenmap\\periode1.3\\C#\\2022P3CS\\les01\\les01.csproj",
+      "projectUniqueName": "C:\\Users\\daand\\OneDrive\\Bureaublad\\Ma\\bewijzenmap\\periode1.3\\C#\\2022P3CS\\HelloWorld\\HelloWorld.csproj",
+      "projectName": "HelloWorld",
+      "projectPath": "C:\\Users\\daand\\OneDrive\\Bureaublad\\Ma\\bewijzenmap\\periode1.3\\C#\\2022P3CS\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\daand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daand\\OneDrive\\Bureaublad\\Ma\\bewijzenmap\\periode1.3\\C#\\2022P3CS\\les01\\obj\\",
+      "outputPath": "C:\\Users\\daand\\OneDrive\\Bureaublad\\Ma\\bewijzenmap\\periode1.3\\C#\\2022P3CS\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
